@@ -1,7 +1,7 @@
 import '../../../../extensions/custom_extensions.dart';
 
 class ApiEndpoint {
-  static const String mainDomain = "PUT_YOUR_OWN_DOMAIN";
+  static const String mainDomain = "https://paylink.wesclic.studio";
   static const String baseUrl = "$mainDomain/api/v1";
 
   //-> basic-settings
